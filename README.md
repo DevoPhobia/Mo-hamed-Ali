@@ -8,8 +8,8 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali" /> </p>
 <p align="center">
-📫 How to reach me **mohamed.ali.uk2020@gmail.com**
-  </p>
+📫 How to reach me **mohamed.ali.uk2020@gmail.com**</p>
+
 
 <p align="center">
   <h3 align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="55" height="35">🛠 Tech Stack Languages & Tools<img src="https://media.giphy.com/media/pZ12OsDJOW1X8UyjgZ/giphy.gif" width="55" height="35"></h3>
