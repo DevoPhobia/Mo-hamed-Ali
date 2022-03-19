@@ -59,6 +59,5 @@
 
 <p> <a align="Center" href="https://github.com/ryo-ma/github-profile-trophy"></a> </p> 
 
-<p><img align="Center" src="https://github-profile-trophy.vercel.app/?username=moooali" alt="moooali" /><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moooali&show_icons=true&locale=en&layout=compact" alt="moooali" /></p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
+<img src="https://github-profile-trophy.vercel.app/?username=moooali&theme=gruvbox" />
