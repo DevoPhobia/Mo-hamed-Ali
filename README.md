@@ -7,8 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Passionate+Programmer;Always%20learning%20new%20tech&center=true&width=500&height=50"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali" /> </p>
-<p align="center"> 
-📫 How to reach me color="blue" **mohamed.ali.uk2020@gmail.com**</p>
+<p align="center"color="blue"> 
+📫 How to reach me  **mohamed.ali.uk2020@gmail.com**</p>
 
 
 <p align="center">
