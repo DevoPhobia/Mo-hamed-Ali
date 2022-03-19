@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center"><img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="35" height="32"> A Passionate Software Developer from London <img src="https://media.giphy.com/media/zZQe7wglGKCEE/giphy.gif" width="35"></h3>
+<h3 align="center"><img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="35" height="32"> A Passionate Software Developer from London <img src="https://media.giphy.com/media/3o7bu87E73qa6Kplo4/giphy.gif" width="35"></h3>
 <p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200" width="400"/>
 </p>
