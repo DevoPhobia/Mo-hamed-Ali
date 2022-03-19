@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center"><img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="35" height="32"> Software Developer from London <img src="https://media.giphy.com/media/2Ozjbk786Umdy/giphy.gif" width="35" height="32"></h3>
 <p align="center">
-  <img src="https://www.pexels.com/photo/mohamed-ali-desk-11533216" height="200" width="400"/>
+  <img src="https://images.pexels.com/photos/11533216/pexels-photo-11533216.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" height="200" width="400"/>
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Passionate+Programmer;Always%20learning%20new%20tech&center=true&width=500&height=50"></a>
