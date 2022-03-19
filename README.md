@@ -57,7 +57,4 @@
 
 <p>&nbsp;<img align="Center" src="https://github-readme-stats.vercel.app/api?username=moooali&show_icons=true&locale=en" alt="moooali" /><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=moooali&" alt="moooali"</p>
 
-<p> <a align="Center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=moooali&theme=gruvbox" /></a> </p> 
-
-
-
+<p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="Center" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30"/><img align="Center" src="https://github-profile-trophy.vercel.app/?username=moooali&theme=gruvbox" /></a> </p> 
