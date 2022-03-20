@@ -4,7 +4,7 @@
   <img src="https://images.pexels.com/photos/11533216/pexels-photo-11533216.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"width="700" height="500"/>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Passionate+Programmer;HTML+-+CSS+-+JavaScript+-+Java+-+Python;iOS+Swift+-+Dart+Flutter;Full+Stack+Web+Development;Bootstrap+-+React+-+NodeJS+-+Django;MongoDB+-+SQL+Database;Software+Security;Always%20learning%20new%20tech&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Passionate+Programmer;HTML+-+CSS+-+JavaScript+-+Java+-+Python;iOS+Swift++-+Dart+Flutter;Full+Stack+Web+Development;Bootstrap+-+React+-+NodeJS+-+Django;MongoDB+-+SQL+Database;Software+Security;Always%20learning%20new%20tech&center=true&width=500&height=50"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali" /> </p>
 
@@ -12,7 +12,7 @@
 ### 💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:mohamed.ali.uk2020@gmail.com)
 
 <p>
-  <h3 align="Left"><img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="30" height="20"> Programming Languages & Tools <img src="https://media.giphy.com/media/pZ12OsDJOW1X8UyjgZ/giphy.gif" width="30" height="20"></h3>
+  <h3 align="Left"><img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="30" height="20"> Programming Languages & Tools ⚒️ <img src="https://media.giphy.com/media/pZ12OsDJOW1X8UyjgZ/giphy.gif" width="30" height="20"></h3>
 </p>
 
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
