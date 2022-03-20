@@ -4,7 +4,7 @@
   <img src="https://images.pexels.com/photos/11533216/pexels-photo-11533216.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"width="700" height="500"/>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Passionate+Programmer;Always%20learning%20new%20tech&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Passionate+Programmer;HTML+CSS+JavaScript+Java;Full+Stack+Web+Development;Bootstrap+React+NodeJS+Express+MongoDBSQL+Django+Databases;Software+Security;iOS+Swift Always%20learning%20new%20tech&center=true&width=500&height=50"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali" /> </p>
  
