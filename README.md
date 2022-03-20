@@ -52,6 +52,6 @@
 <a href="https://github.com/MoooAli"><img alt="Mo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MoooAli&custom_title=Mo's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-<p align="Left">&nbsp;<img align="Center" width="350" src="https://github-readme-stats.vercel.app/api?username=moooali&show_icons=true&locale=en" alt="moooali" /><img align="Right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=moooali&" alt="moooali"</p>
+<p align="Left">&nbsp;<img align="Center" width="350" src="https://github-readme-stats.vercel.app/api?username=moooali&show_icons=true&locale=en" alt="moooali" /><img align="Right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=moooali&" alt="moooali"</p>
 
 <p align="Left">&nbsp;<img align="Center" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60"/><img align="Center" src="https://github-profile-trophy.vercel.app/?username=moooali&theme=gruvbox" />&nbsp;<img align="Center" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60"/></a> </p> 
