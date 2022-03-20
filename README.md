@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <h3 align="Left"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30" height="20"> Programming Languages & Tools <img src="https://media.giphy.com/media/pZ12OsDJOW1X8UyjgZ/giphy.gif" width="30" height="20"></h3>
+  <h3 align="Left"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" height="20"> Programming Languages & Tools <img src="https://media.giphy.com/media/pZ12OsDJOW1X8UyjgZ/giphy.gif" width="30" height="20"></h3>
 </p>
 
 
