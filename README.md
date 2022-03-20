@@ -49,9 +49,9 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
   <br/>
-   <a href="https://github.com/MoooAli"><img alt="Mo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MoooAli&custom_title=Mo's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/MoooAli"><img alt="Mo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MoooAli&custom_title=Mo's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-<p>&nbsp;<img align="Center" src="https://github-readme-stats.vercel.app/api?username=moooali&show_icons=true&locale=en" alt="moooali" /><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=moooali&" alt="moooali"</p>
+<p align="Center">&nbsp;<img align="Center" src="https://github-readme-stats.vercel.app/api?username=moooali&show_icons=true&locale=en" alt="moooali" /><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=moooali&" alt="moooali"</p>
 
 <p align="Center">&nbsp;<img align="Center" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60"/><img align="Center" src="https://github-profile-trophy.vercel.app/?username=moooali&theme=gruvbox" />&nbsp;<img align="Center" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60"/></a> </p> 
