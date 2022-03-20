@@ -8,13 +8,10 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali" /> </p>
 
-
 ### 💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:mohamed.ali.uk2020@gmail.com)
-
 <p>
   <h3 align="Left"><img src="https://media.giphy.com/media/65n8RPEa3r65q/giphy.gif" width="30" height="20"> Programming Languages ＆ Tools ⚒️ </h3>
 </p>
-
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
