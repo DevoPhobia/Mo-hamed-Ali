@@ -12,7 +12,7 @@
 
 <p align="Left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=
-  Programming+Languages+&+Tools;Programming+Languages+&+Tools&center=true&width=500&height=50"></a>
+  Programming+Languages+Tools;Programming+Languages+Tools&center=true&width=500&height=50"></a>
 </p>
 
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
