@@ -8,7 +8,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali" /> </p>
 
-📫 reach me |[![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:mohamed.ali.uk2020@gmail.com)
+📫 reach me |[![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:mohamed.ali.uk2020@gmail.com)
  
 
 <p>
