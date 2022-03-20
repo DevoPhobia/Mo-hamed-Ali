@@ -8,8 +8,8 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali" /> </p>
 
-📫 reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ali.uk2020@gmail.com)
- 
+
+### 💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:mohamed.ali.uk2020@gmail.com)
 
 <p>
   <h3 align="Left"><img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="30" height="20"> Programming Languages & Tools <img src="https://media.giphy.com/media/pZ12OsDJOW1X8UyjgZ/giphy.gif" width="30" height="20"></h3>
