@@ -11,8 +11,9 @@
 📫 How to reach me  **mohamed.ali.uk2020@gmail.com**
 
 
-<p align="center">
-  <h3 align="Left"><img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="30" height="20"> Programming Languages & Tools <img src="https://media.giphy.com/media/pZ12OsDJOW1X8UyjgZ/giphy.gif" width="30" height="20"></h3>
+<p align="Left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=
+  <h3><img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="30" height="20"> Programming Languages & Tools <img src="https://media.giphy.com/media/pZ12OsDJOW1X8UyjgZ/giphy.gif" width="30" height="20"></h3></a>
 </p>
 
 
