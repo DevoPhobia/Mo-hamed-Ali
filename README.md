@@ -10,8 +10,8 @@
  
 📫 How to reach me  **mohamed.ali.uk2020@gmail.com**
 
-<p align="Left" color="orange">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Programming+Languages+&+Tools;Programming+Languages+&+Tools&center=true&width=500&height=50"></a>
+<p>
+  <h3 align="Left"><img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="30" height="20"> Programming Languages & Tools <img src="https://media.giphy.com/media/pZ12OsDJOW1X8UyjgZ/giphy.gif" width="30" height="20"></h3>
 </p>
 
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
