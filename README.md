@@ -13,7 +13,7 @@
 
 <p align="Left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=
-  Programming+Languages+&+Tools%20tech&center=true&width=500&height=50"></a>
+  Programming+Languages+&+Tools%width=500&height=50"></a>
 </p>
 
 
