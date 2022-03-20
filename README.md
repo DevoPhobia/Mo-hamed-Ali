@@ -4,7 +4,7 @@
   <img src="https://images.pexels.com/photos/11533216/pexels-photo-11533216.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"width="700" height="500"/>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Passionate+Programmer;HTML+-+CSS+-+JavaScript+-+Java+-+Python;iOS+Swift++-+Dart+Flutter;Full+Stack+Web+Development;Bootstrap+-+React+-+NodeJS+-+Django;MongoDB+-+SQL+Database;Software+Security;Always%20learning%20new%20tech&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Passionate+Programmer;HTML+-+CSS+-+JavaScript+-+Java+-+Python;iOS+Swift++-+Dart+Flutter;Full+Stack+Web+Development;Bootstrap+-+React+-+NodeJS+-+Django;MongoDB+-+SQL+Database;Software+Security;Always%20learning%20new%20tech&center=true&width=500&height=40"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali" /> </p>
 
@@ -54,4 +54,4 @@
 
 <p>&nbsp;<img align="Center" src="https://github-readme-stats.vercel.app/api?username=moooali&show_icons=true&locale=en" alt="moooali" /><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=moooali&" alt="moooali"</p>
 
-<p>&nbsp;<img align="Center" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30"/><img align="Center" src="https://github-profile-trophy.vercel.app/?username=moooali&theme=gruvbox" /></a> </p> 
+<p align="Center">&nbsp;<img align="Center" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30"/><img align="Center" src="https://github-profile-trophy.vercel.app/?username=moooali&theme=gruvbox" /></a> </p> 
