@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Passionate+Programmer;HTML+-+CSS+-+JavaScript+-+Java+-+Python;iOS+Swift++-+Dart+Flutter;Full+Stack+Web+Development;Bootstrap+-+React+-+NodeJS+-+Django;MongoDB+-+SQL+Database;Software+Security;Always%20learning%20new%20tech&center=true&width=500&height=40"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=social&alt="moooali"
 
 ![GitHub followers](https://img.shields.io/github/followers/moooali.svg?logoColor=orange&style=social&label=Follow)
 
