@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohamed Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Mohamed Ali <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px" height="30px"></h1>
 <h3 align="center"> Software Developer from London <img src="https://media.giphy.com/media/2Ozjbk786Umdy/giphy.gif" width="30" height="20"></h3>
 <p align="center">
   <img src="https://images.pexels.com/photos/11533216/pexels-photo-11533216.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"width="700" height="500"/>
@@ -6,11 +6,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Passionate+Programmer;HTML+-+CSS+-+JavaScript+-+Java+-+Python;iOS+Swift++-+Dart+Flutter;Full+Stack+Web+Development;Bootstrap+-+React+-+NodeJS+-+Django;MongoDB+-+SQL+Database;Software+Security;Always%20learning%20new%20tech&center=true&width=500&height=40"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali"
+
+![GitHub followers](https://img.shields.io/github/followers/moooali.svg?style=social&label=Follow)
 
 ### 💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:mohamed.ali.uk2020@gmail.com)
 <p>
-  <h3 align="Left"><img src="https://media.giphy.com/media/65n8RPEa3r65q/giphy.gif" width="30" height="20"> Programming Languages ＆ Tools ⚒️ </h3>
+  <h3 align="Left"><img src="https://media.giphy.com/media/65n8RPEa3r65q/giphy.gif" width="30" height="20"> Programming Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15px> ＆ Tools ⚒️ </h3>
 </p>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
