@@ -8,7 +8,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moooali&label=Profile%20views&color=0e75b6&style=flat" alt="moooali"
 
-![GitHub followers](https://img.shields.io/github/followers/moooali.svg?logoColor=blue&style=social&label=Follow)
+![GitHub followers](https://img.shields.io/github/followers/moooali.svg?logoColor=orange&style=social&label=Follow)
 
 ### 💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:mohamed.ali.uk2020@gmail.com)
 <p>
