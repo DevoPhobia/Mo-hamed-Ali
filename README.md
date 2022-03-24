@@ -40,8 +40,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>   
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>   </p>
   <br/>
-<a href="https://github.com/MoooAli"><img alt="Mo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MoooAli&custom_title=Mo's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 <p align="Left">&nbsp;<img align="Center" width="350" src="https://github-readme-stats.vercel.app/api?username=moooali&show_icons=true&locale=en" alt="moooali" /><img align="Right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=moooali&" alt="moooali"</p>
 
