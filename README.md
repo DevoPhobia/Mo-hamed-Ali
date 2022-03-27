@@ -4,7 +4,7 @@
   <img src="https://images.pexels.com/photos/11533216/pexels-photo-11533216.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"width="700" height="500"/>
 </p>
 <p align="center">
-  <a href="https://github.com/MoooAli/MoooAli/blob/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Programmer+👨🏻‍💻;HTML+-+CSS+-+JavaScript+-+TypeScript;Java+♨+-+🅿ython;iOS+Swift++-+Dart+🎯+-+Flutter;Full+Stack+Web+Development🧩;Bootstrap+-+React+-+NodeJS+-+Django;User+Interface+-+User+Experience;AWS+-+Docker+-+Kubernetes+Container;Firebase+-+MongoDB+-+SQL+Database;Software+Security+🔐;Always%20learning%20new%20tech+📚&center=true&width=500&height=40"></a>
+  <a href="https://github.com/MoooAli/MoooAli/blob/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Programmer+👨🏻‍💻;HTML+-+CSS+-+JavaScript+-+TypeScript;Java+♨+-+🅿ython;iOS+Swift++-+Dart+🎯+-+Flutter;Full+Stack+Web+Development🧩;Bootstrap+-+React⚛+-+NodeJS+-+Django;User+Interface+-+User+Experience;AWS+-+Docker+-+Kubernetes+Container;Firebase+-+MongoDB+-+SQL+Database;Software+Security+🔐;Always%20learning%20new%20tech+📚&center=true&width=500&height=40"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MoooAli&label=Views&color=orange&style=social&alt="MoooAli"
   
