@@ -6,10 +6,6 @@
 <p align="center">
   <a href="https://github.com/MoooAli/MoooAli/blob/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Programmer+👨🏻‍💻;HTML+-+CSS+-+JavaScript+-+TypeScript;Java+♨+-+🅿ython+-+iOS+Swift+;Full+Stack+Web+Development🌐;React⚛+-+Angular+-+Bootstrap+-+NodeJS;AWSᵃ⤻ᶻ+-+Docker+-+Kubernetes+Container;Firebase+-+MongoDB+-+SQL+Database;Software+Security+🔐;Always%20learning%20new%20tech+🤖&center=true&width=500&height=40"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MoooAli&label=Views&color=orange&style=social&alt="MoooAli"
-  
-![GitHub followers](https://img.shields.io/github/followers/M.svg?label=Follow&logoColor=orange&style=social)
-
 
 ### 💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=plastic&logo=Gmail&logoColor=white)](mailto:mohamed.ali.uk2020@gmail.com)
 <p>
