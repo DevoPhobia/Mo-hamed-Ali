@@ -53,4 +53,103 @@
       height="40"
     />
   </a>
+      <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      alt="heroku"
+      width="40"
+      height="40"
+    />
+  </a>
+     <a
+    href="https://www.adobe.com/in/products/illustrator.html"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+      alt="illustrator"
+      width="40"
+      height="40"
+    />
+  </a>
+    
+  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"
+      alt="jasmine"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a
+    href="https://karma-runner.github.io/latest/index.html"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg"
+      alt="karma"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
+      alt="materialize"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
+      alt="mocha"
+      width="40"
+      height="40"
+    />
+  </a>
+     <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+      alt="redis"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+    
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+    
+  <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg"
+      alt="wx_widgets"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
     </p>
