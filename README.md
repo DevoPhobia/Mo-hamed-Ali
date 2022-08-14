@@ -45,6 +45,10 @@
 <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> </p>
   <br/>
 
-<p align="Left">&nbsp;<img align="Center" width="350" src="https://github-readme-stats.vercel.app/api?username=moooali&show_icons=true&locale=en" alt="moooali" /><img align="Right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=moooali&" alt="moooali"</p>
+<p align="Left">&nbsp;<img align="Center" width="350" src="https://github-readme-stats.vercel.app/api?username=Mo-hamed-Ali
+&show_icons=true&locale=en" alt="moooali" /><img align="Right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-hamed-Ali
+&" alt="Mo-hamed-Ali
+"</p>
 
-<p align="Center">&nbsp;<img align="Center" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60"/><img align="Center" src="https://github-profile-trophy.vercel.app/?username=moooali&theme=gruvbox" />&nbsp;<img align="Center" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60"/></a> </p> 
+<p align="Center">&nbsp;<img align="Center" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60"/><img align="Center" src="https://github-profile-trophy.vercel.app/?username=Mo-hamed-Ali
+&theme=gruvbox" />&nbsp;<img align="Center" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60"/></a> </p> 
