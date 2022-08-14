@@ -8,7 +8,7 @@
 
 ### 💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=plastic&logo=Gmail&logoColor=white)](mailto:mohamed.ali.uk2020@gmail.com)
 <p>
-  <h3 align="Left"><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width=25" height="25"> Programming Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15px> ＆ Tools ⚒️ </h3>
+  <h3 align="Left">Programming Languages <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width=25" height="35">  ＆ Tools ⚒️ </h3>
 </p>
 
 <p align="left">
