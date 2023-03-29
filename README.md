@@ -8,7 +8,7 @@
 
 ### 💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=plastic&logo=Gmail&logoColor=white)](mailto:mohamed.ali.uk2020@gmail.com)
 <p>
-  <h3 align="Left">Programming Languages ＆ Tools ⚒️ </h3>
+  <h3 align="Left">Programming Languages ＆ Technologies ⚒️ </h3>
 </p>
 
 <p align="left">
