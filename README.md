@@ -14,8 +14,6 @@
   <img src="portfolio.gif" alt="portfolio" />
 </p>
 
-![portfolio](portfolio.gif)
-
 💬 Contact Me via email: [![Gmail Badge](https://img.shields.io/badge/-dev.mohamed.ali1@gmail.com-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com)
 
 <p>
