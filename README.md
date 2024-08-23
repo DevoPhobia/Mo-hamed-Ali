@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/devMoAli
-/devMoAli
-/blob/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍💻+Portfolio+👉🏻;👨🏻‍💻+-+Portfolio+👉🏻/></a></p>
+ <a><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍💻+Portfolio+👉🏻;👨🏻‍💻+Portfolio+👉🏻/></a></p>
 
                         
 ##### <h4 align="center" colour="#207199">👨🏻‍💻 Portfolio 👉🏻 www.devma.uk </h4>
