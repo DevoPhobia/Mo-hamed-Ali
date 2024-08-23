@@ -9,6 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=8000&pause=8000&color=F79B36&center=true&vCenter=true&width=435&height=30&lines=Portfolio%F0%9F%91%87%F0%9F%8F%BC" alt="Typing SVG" /></a>
 </p>
 <p align="center">www.devma.uk</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=8000&pause=8000&color=5783C3&center=true&vCenter=true&repeat=false&width=435&height=30&lines=www.devma.uk" alt="Typing SVG" /></a>
 
 💬 Contact Me via email: [![Gmail Badge](https://img.shields.io/badge/-dev.mohamed.ali1@gmail.com-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com)
 
