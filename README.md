@@ -6,7 +6,7 @@
 /blob/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Programmer+👨🏻‍💻;HTML+-+CSS+-+JavaScript+-+TypeScript;Java+♨+-+🅿ython+-+iOS+Swift+;Full+Stack+Web+Development🌐;React⚛+-+Next.js+-+Angular+-+NodeJS;AWSᵃ⤻ᶻ+-+Docker+-+Kubernetes+Container;Firebase+-+MongoDB+-+SQL+Database;Software+Security+🔐;Always%20learning%20new%20tech+🤖&center=true&width=500&height=40"></a>
 </p>
 <p align="center" > 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=10000&pause=10000&color=F79B36&center=true&vCenter=true&width=435&height=30&lines=Portfolio%F0%9F%91%87%F0%9F%8F%BC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=10000&pause=10000&color=F79B36&center=true&vCenter=true&width=435&height=30&lines=Portfolio%F0%9F%91%87%F0%9F%8F%BC" alt="Typing SVG" /></a>www.devma.uk
 </p>
 
 <p align="center">
