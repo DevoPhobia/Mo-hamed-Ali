@@ -9,8 +9,10 @@
 <p align="center">
  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Portfolio👇🏼;Portfolio👇🏼;&center=true&width=400&height=30"/></a></p>
  <p align="center" text-decoration="none">www.devma.uk</p>
+ <p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Portfolio👇🏼;Portfolio👇🏼;&center=true&width=400&height=30"/></a>
+</p>
 
-💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=plastic&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com) <p><a>dev.mohamed.ali1@gmail.com</a></p>
 💬 Contact Me via email: [![Gmail Badge](https://img.shields.io/badge/-dev.mohamed.ali1@gmail.com-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com)
 
 <p>
