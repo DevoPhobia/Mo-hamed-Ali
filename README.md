@@ -5,13 +5,11 @@
 /devMoAli
 /blob/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Programmer+👨🏻‍💻;HTML+-+CSS+-+JavaScript+-+TypeScript;Java+♨+-+🅿ython+-+iOS+Swift+;Full+Stack+Web+Development🌐;React⚛+-+Next.js+-+Angular+-+NodeJS;AWSᵃ⤻ᶻ+-+Docker+-+Kubernetes+Container;Firebase+-+MongoDB+-+SQL+Database;Software+Security+🔐;Always%20learning%20new%20tech+🤖&center=true&width=500&height=40"></a>
 </p>
-
 <p align="center">
- <a><img src="https://readme-typing-svg.herokuapp.com?lines=Portfolio👇🏼;Portfolio👇🏼;&center=true&width=400&height=30"/></a></p>
- <p align="center" text-decoration="none">www.devma.uk</p>
- <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=Portfolio👇🏼;Portfolio👇🏼;&center=true&width=400&height=30"/></a>
 </p>
+
+<p align="center">www.devma.uk</p>
 
 💬 Contact Me via email: [![Gmail Badge](https://img.shields.io/badge/-dev.mohamed.ali1@gmail.com-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com)
 
