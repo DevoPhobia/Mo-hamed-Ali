@@ -8,8 +8,9 @@
 <p align="center" > 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=10000&pause=10000&color=F79B36&center=true&vCenter=true&width=435&height=30&lines=Portfolio%F0%9F%91%87%F0%9F%8F%BC" alt="Typing SVG" /></a>
 </p>
-www.devma.uk
+
 <p align="center">
+  www.devma.uk
   <img src="portfolio.gif" alt="portfolio" />
 </p>
 
