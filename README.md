@@ -10,7 +10,7 @@
  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Portfolio👇🏼;Portfolio👇🏼;&center=true&width=500&height=40"/></a></p>
  <p align="center" text-decoration="none">www.devma.uk</p>
 
-💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=plastic&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com) <p>dev.mohamed.ali1@gmail.com</p>
+💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=plastic&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com) <p><a>dev.mohamed.ali1@gmail.com</a></p>
 <p>
   <h3 align="Left">Programming Languages ＆ Technologies ⚒️ </h3>
 </p>
