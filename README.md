@@ -8,10 +8,11 @@
 <p align="center" > 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=10000&pause=10000&color=F79B36&center=true&vCenter=true&width=435&height=30&lines=Portfolio%F0%9F%91%87%F0%9F%8F%BC" alt="Typing SVG" /></a>
 </p>
+
 <p align="center">www.devma.uk</p>
+![Portfolio](portfolio.gif)
 
 💬 Contact Me via email: [![Gmail Badge](https://img.shields.io/badge/-dev.mohamed.ali1@gmail.com-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com)
-
 
 <p>
   <h3 align="Left">Programming Languages ＆ Technologies ⚒️ </h3>
