@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  ### www.devma.uk
+ www.devma.uk
   </p>
 <p align="center">
   <img src="portfolio.gif" alt="portfolio" />
