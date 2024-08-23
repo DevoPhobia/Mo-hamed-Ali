@@ -6,7 +6,7 @@
 /blob/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Programmer+👨🏻‍💻;HTML+-+CSS+-+JavaScript+-+TypeScript;Java+♨+-+🅿ython+-+iOS+Swift+;Full+Stack+Web+Development🌐;React⚛+-+Next.js+-+Angular+-+NodeJS;AWSᵃ⤻ᶻ+-+Docker+-+Kubernetes+Container;Firebase+-+MongoDB+-+SQL+Database;Software+Security+🔐;Always%20learning%20new%20tech+🤖&center=true&width=500&height=40"></a>
 </p>
 
-### 💬 Portfolio https://devma.uk/
+# 💬 Portfolio https://devma.uk/
 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=plastic&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com)
 <p>
   <h3 align="Left">Programming Languages ＆ Technologies ⚒️ </h3>
