@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Mohamed Ali<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="30px"></h1>
 <h3 align="center"> Web Developer based in London <img src="https://media.giphy.com/media/2Ozjbk786Umdy/giphy.gif" width="30" height="20"></h3>
-<p align="center" colour="#207199">
+<p align="center" >
   <a href="https://github.com/devMoAli
 /devMoAli
 /blob/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Programmer+👨🏻‍💻;HTML+-+CSS+-+JavaScript+-+TypeScript;Java+♨+-+🅿ython+-+iOS+Swift+;Full+Stack+Web+Development🌐;React⚛+-+Next.js+-+Angular+-+NodeJS;AWSᵃ⤻ᶻ+-+Docker+-+Kubernetes+Container;Firebase+-+MongoDB+-+SQL+Database;Software+Security+🔐;Always%20learning%20new%20tech+🤖&center=true&width=500&height=40"></a>
 </p>
 
-##### 💬 Portfolio <h3 align="center"> www.devma.uk </h3>
+##### 💬 Portfolio <h3 align="center" color="#207199"> www.devma.uk </h3>
 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=plastic&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com)
 <p>
   <h3 align="Left">Programming Languages ＆ Technologies ⚒️ </h3>
