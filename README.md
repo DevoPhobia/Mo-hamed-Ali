@@ -10,10 +10,6 @@
 </p>
 <p align="center">www.devma.uk</p>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=8000&pause=8000&color=5783C3&center=true&vCenter=true&repeat=false&width=435&height=30&lines=www.devma.uk)](https://git.io/typing-svg)
-
-
 💬 Contact Me via email: [![Gmail Badge](https://img.shields.io/badge/-dev.mohamed.ali1@gmail.com-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com)
 
 
