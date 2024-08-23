@@ -11,7 +11,7 @@
 
 <p align="center">www.devma.uk</p>
 
-💬 Contact Me via email: [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=plastic&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com)
+💬 Contact Me via email: [![Gmail Badge](https://img.shields.io/badge/-dev.mohamed.ali1@gmail.com-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com)
 
 
 <p>
