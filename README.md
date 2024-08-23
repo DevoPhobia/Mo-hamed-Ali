@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
- <a><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍💻+-+Portfolio+-+👉🏻;👨🏻‍💻+-+Portfolio+-+👉🏻+-+www.devma.uk;&center=true&width=500&height=40"/></a></p>
+ <a><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍💻+-+Portfolio+-+👉🏻;👨🏻‍💻+-+Portfolio+-+👇🏼+-+;&center=true&width=500&height=40"/></a></p>
+ <p align="center">www.devma.uk</p>
 
 💬 Contact Me [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=plastic&logo=Gmail&logoColor=white)](mailto:dev.mohamed.ali1@gmail.com)
 <p>
