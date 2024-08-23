@@ -10,6 +10,9 @@
 </p>
 
 <p align="center">www.devma.uk</p>
+<p align="center">
+  <img src="portfolio.gif" alt="portfolio" />
+</p>
 
 ![portfolio](portfolio.gif)
 
